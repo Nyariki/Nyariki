@@ -1,4 +1,5 @@
 ### Hi there, I'm Robert 👋
 ![](https://github-readme-stats.vercel.app/api?username=Nyariki&show_icons=true&include_all_commits=true&line_height=40&theme=THEME_NAME)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyariki)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyariki&count_private=true&line_height=40&theme=THEME_NAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
